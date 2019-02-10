@@ -2,7 +2,7 @@
 
 > A Mpvue project
 
-一个图片列表微信小程序， 入门练手
+一个图书列表微信小程序， 入门练手
 
 ## Build Setup
 
